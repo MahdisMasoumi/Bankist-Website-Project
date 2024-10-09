@@ -1,2 +1,3 @@
 # Bankist-Website-Project
 Coded along as part of the Udemy course : This project demonstrates proficiency in JavaScript programming and the use of the DOM API. The project includes various features such as a modal window, button scrolling, page navigation, a tabbed component, menu fade animation, sticky navigation using the Intersection Observer API, revealing sections, lazy loading images, and a slider. The code is well-organized and follows best practices such as using strict mode and the module pattern. The project showcases an understanding of event listeners, DOM manipulation, and the Intersection Observer API.
+!["Screenshot of calculator home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/Screenshot 2024-10-09 150130.png)
