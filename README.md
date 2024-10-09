@@ -3,10 +3,10 @@ Bankist is a modern banking app that demonstrates advanced JavaScript skills and
 
 ## Final Product
 - Home Page
-!["Screenshot of home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/mainPage)
+!["Screenshot of the home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/mainpage.png)
 
 - Homepage Demo Video
-!["Video of home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/bankist.mp4)
+!["Video of the home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/bankist.mp4)
 
 
 ## Dependencies
