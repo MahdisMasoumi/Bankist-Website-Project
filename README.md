@@ -1,3 +1,17 @@
 # Bankist-Website-Project
-Coded along as part of the Udemy course : This project demonstrates proficiency in JavaScript programming and the use of the DOM API. The project includes various features such as a modal window, button scrolling, page navigation, a tabbed component, menu fade animation, sticky navigation using the Intersection Observer API, revealing sections, lazy loading images, and a slider. The code is well-organized and follows best practices such as using strict mode and the module pattern. The project showcases an understanding of event listeners, DOM manipulation, and the Intersection Observer API.
-!["Screenshot of calculator home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/mainPage)
+Bankist is a modern banking app that demonstrates advanced JavaScript skills and DOM manipulation techniques. It includes features such as modal windows, smooth scrolling, multi-page navigation, tabbed components, and menu fade animations. Additionally, it utilizes the Intersection Observer API for sticky navigation and section reveals, along with lazy loading images and an interactive slider.
+
+## Final Product
+- Home Page
+!["Screenshot of home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/mainPage)
+
+- Homepage Demo Video
+!["Video of home page"](https://github.com/MahdisMasoumi/Bankist-Website-Project/blob/main/images/bankist.mp4)
+
+
+## Dependencies
+
+- HTML
+- CSS
+- JavaScript
+- DOM API
